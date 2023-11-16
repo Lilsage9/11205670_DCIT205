@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;1,700&display=swap');
+
+.body {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nav {
+    border: solid #141235 4px;
+    height:150px;
+    border-radius:4px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #141235;
+    font-family: Roboto,sans-serif;
+    position: fixed;
+    left: 0;
+    top:0;
+    right:0;
+    z-index: 200px;
+}
+.entrance-image {
+    width:1220px;
+    height:280px;
+    text-align: center;
+}
+.logo {
+    height:100px;
+    border-radius: 5px;
+}
+.nav-right-section {
+    color:white;
+    font-size: 30px;
+    line-height:25px;
+}
+.welcome-message {
+    font-family:Roboto,sans-serif;
+    text-align: center;
+    color: #2C2A58;
+    
+}
+.headings {
+    font-family: sans-serif,roboto;
+    margin-bottom:10px;
+    color: #2C2A58;
+    font-size: bold;
+
+}
+.paragraphs {
+    font-family: sans-serif;
+    margin-top:0px;
+    color:black;
+    line-height:25px;
+}
+.quick-links {
+    font-family: sans-serif;
+    font-size:20px;
+    line-height: 25px;
+    color:#2C2A58;
+    margin-top:150px;
+}
+.quick-links-tab {
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    padding-top: 10px;
+}
+.page-name {
+    color:#BD9C6C;
+    font-family: sans-serif;
+    text-decoration:underline;
+    margin-top: 0px;
+}
+.quick-links {
+    margin-right: 15px;
+    font-family: sans-serif;
+    font-size:13px;
+}
+.quick-links:hover {
+color:#BD9C6C;
+cursor: pointer;
+}
+.images {
+width:500px;
+border-radius: 5px;
+border:solid 2px #141235 ;
+height:300px;
+
+}
+.homepage-images {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.short-course-section {
+    display: flex;
+    height:500px;
+    flex-direction: row;
+    background-color:#BD9C6C;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius:5px;
+    margin-bottom: 30px;
+    padding-top:50px;
+    padding-bottom:30px;
+    justify-content:space-around;
+    
+}
+.course-mini-section {
+display:flex;
+flex-direction:column;
+width:250px;
+height:400px;
+border-radius: 5px;
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 20px;
+padding-bottom: 20px;
+z-index:100px;
+}
+.course-mini-section:hover {
+border:black solid 1px;
+cursor: pointer;
+z-index:100px;
+}
+.course-mini-section:active {
+    transform:translateY(5px);
+}
+.course-images{
+    width:200px;
+    height:160px;
+    border-radius: 5px;
+}
+.short-course-heading {
+    text-align: center;
+    font-family: sans-serif;
+    color: #2C2A58;
+}
+.short-course-paragraph {
+    text-align: center;
+    font-family: sans-serif;
+    color: #2C2A58;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+.buttons {
+background-color: #BD9C6C;
+color: white;
+font-family: sans-serif;
+height: 40px;
+border:#BD9C6C solid 1px;
+width:80px;
+}
+.buttons:hover {
+    opacity:0.8;
+    cursor:pointer;
+}
+.buttons:active {
+    transform:translateY(3px);
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    background-color:#BD9C6C;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding-top: 100px;
+    justify-content: space-around;
+    margin-bottom: 50px;
+    height: 400px;
+    text-align: left;
+}
+.copyright-paragraph {
+    text-align: center;
+    font-family: sans-serif;
+    color:#2C2A58;
+}
+.picture-text-template {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.text-section {
+width:500px;
+}
+.events-picture-template {
+    display: flex;
+    flex-direction: row;
+}
+.event-images {
+    width:350px;
+    border-radius: 5px;
+    border:solid 2px #BD9C6C;
+    height:300px;
+}
+.semi-template {
+    margin-bottom:30px;
+    margin-top: 20px;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    background-color: #BD9C6C;
+    border-radius: 5px;
+    width:670px;
+}
+.event-headings {
+    font-family: sans-serif;
+    color:#2C2A58;
+    margin-bottom: 30px;
+    margin-left:15px;
+}
+.event-paragraphs {
+    margin-left:15px;
+    font-family: sans-serif;
+}
+.email-section {
+    background-color: #141235;
+    border-radius: 5px;
+    height:250px;
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 10px;
+}
+.email-label {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+}
+.email-input-box {
+    height:40px;
+    padding-left: 10px;
+    width: 350px;
+    border:none;
+    border-radius: 4px;
+    border-top-right-radius:0px;
+    border-bottom-right-radius:0px;
+}
+.student-staff-container {
+    padding-top: 30px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align:center ;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    width: 300px;
+    
+}
+.student-staff-mini-section {
+    margin-bottom: 20px;
+}
+.student-staff-section-texts {
+color: white;
+font-family: sans-serif;
+font-weight: bold;
+}
+.contact-us-form-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align:center ;
+    margin-bottom: 50px;
+    height:1010px;
+}
+.contact-us-mini-container {
+    margin-bottom:30px;
+    text-align: left;
+    margin-left: 70px;
+}
+.contact-us-inputbox {
+    width:600px;
+    height:50px;
+    border:2px #BD9C6C solid;
+    border-radius: 4px;
+    padding-left: 30px;
+    font-size:15px;
+    font-family: sans-serif;
+}
+.form-label {
+    font-family:sans-serif ;
+    font-size: larger;
+    color: #141235;
+}
+.textarea {
+    width:600px;
+    height:250px;
+    border:2px #BD9C6C solid;
+    padding-left: 30px;
+    border-radius: 4px;
+    font-family: sans-serif;
+    font-size:15px;
+    padding-top:30px ;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.contact-us-button {
+    background-color: #BD9C6C;
+    color: white;
+    font-family: sans-serif;
+    height: 40px;
+    border:#BD9C6C solid 1px;
+    width:80px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+.contact-us-button:hover {
+    opacity:0.8;
+    cursor:pointer;
+}
+.contact-us-button:active {
+    transform:translateY(3px);
+}
