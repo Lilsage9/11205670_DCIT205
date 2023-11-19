@@ -129,7 +129,7 @@ padding-bottom: 20px;
 z-index:100;
 }
 .course-mini-section:hover {
-border:black solid 1px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 cursor: pointer;
 z-index:100;
 }
