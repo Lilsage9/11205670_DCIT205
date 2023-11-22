@@ -12,27 +12,58 @@ git clone https://github.com/Lilsage9/11205670_DCIT-205
 
 ### Setting up the Project
 
-1. Navigate to the project directory:
+1. Install Git:
+   If you haven't installed Git, download and install it from [git-scm.com](https://git-scm.com/).
 
-```bash
-cd [project_directory]
-```
+2. Clone the Repository:
 
-2. Install the necessary dependencies:
+   Open a terminal or command prompt and navigate to the directory where you want to store the project. Then, run the following command to clone the repository:
 
-```bash
-npm install
-```
+   ```bash
+   git clone https://github.com/Lilsage9/11205670_DCIT205.git
+   ```
 
-3. [Include any additional setup steps if necessary]
 
-4. Run the project:
+3. Navigate to Project Directory:
 
-```bash
-npm start
-```
+   Change into the project directory:
 
-Your project should now be running locally at [localhost:3000] (or another port if specified).
+   ```bash
+   cd project
+   ```
+
+4. Install Dependencies:
+
+   Depending on the project, you might need to install dependencies. Common dependency managers include npm for Node.js, pip for Python, or composer for PHP. For example:
+
+   ```bash
+   npm install
+   ```
+
+   or
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Configure Environment Variables:
+
+   Some projects require configuration through environment variables. Check for any configuration files (e.g., `.env`) and set the necessary variables.
+
+6. Build the Project:
+
+   ```bash
+   npm run build
+   ```
+
+
+7. Run the Project:
+
+   Execute the command to run the project:
+
+   ```bash
+   npm start
+   ```
 
 ## Author Information
 
