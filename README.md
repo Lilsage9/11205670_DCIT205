@@ -1,14 +1,5 @@
 Welcome to Department of Computer Science,University of Ghana-Legon. This website was created with the purpose of The purpose of creating a Computer Science Department website is to serve as a centralized online platform that fulfills various objectives related to communication, information dissemination, and community building within the department.
 
-To clone this project to your local machine, follow these steps:
-
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to clone the project.
-3. Run the following command:
-
-```bash
-git clone https://github.com/Lilsage9/11205670_DCIT-205
-```
 
 ### Setting up the Project
 
