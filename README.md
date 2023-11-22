@@ -41,8 +41,8 @@ Student ID: 11205670
 
 ## Screenshots
 
-![homepage](C:\Users\user\Desktop\intro-to-html\DCIT_205_IA\images\homepage screenshot.jpg)
-![AboutUsPage](images/about us page screenshot.jpg)
+![Homepage](<images/homepage screenshot.jpg>)
+![About Us page](<images/about us page screenshot.jpg>)
 ![ProgrammePage](images/programme page screenshot.jpg)
 ![NewsPage](images/news page screenshot.jpg)
 ![EventsPage](images/events page screenshot.jpg)
