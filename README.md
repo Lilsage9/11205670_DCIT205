@@ -41,16 +41,16 @@ Student ID: 11205670
 
 ## Screenshots
 
-<img src="![Homepage](<images/homepage screenshot.jpg>)">
-<img src="![About Us page](<images/about us page screenshot.jpg>)">
-<img src="![Programme page](<images/programme page screenshot.jpg>)">
-<img src="![News page](<images/news page screenshot.jpg>)">
-<img src="![Events page](<images/events page screenshot.jpg>)">
-<img src="![Facilities page](<images/facilites page screenshot.jpg>)">
-<img src="![Research page](<images/research page screenshot.jpg>)">
-<img src="![Student and Staff page](<images/students staff page screenshot.jpg>)">
-<img src="![Contact Us page](<images/contact us page screenshot.jpg>)">
-<img src="![Resources page](<images/resources page screenshot.jpg>)">
+![homepage](images/homepage screenshot.jpg)
+![AboutUsPage](images/about us page screenshot.jpg)
+![ProgrammePage](images/programme page screenshot.jpg)
+![NewsPage](images/news page screenshot.jpg)
+![EventsPage](images/events page screenshot.jpg)
+![FacilitiesPage](images/facilites page screenshot.jpg)
+![ResearchPage](images/research page screenshot.jpg)
+![StudentandStaffPage](images/students staff page screenshot.jpg)
+![Contact Us Page](images/contact us page screenshot.jpg)
+![ResourcesPage](images/resources page screenshot.jpg)
 
 
 ## Project Learnings
