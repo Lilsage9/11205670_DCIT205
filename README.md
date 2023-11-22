@@ -37,6 +37,7 @@ Your project should now be running locally at [localhost:3000] (or another port 
 ## Author Information
 
 Name:Emmanuel Sagoe
+
 Student ID: 11205670
 
 ## Screenshots
